@@ -46,7 +46,11 @@ namespace Wallpaper_Admin_Panel.Controllers
             }
             return true;
         }
-    
+
+        public ActionResult Signup()
+        {
+            return View();
+        }
 
     }
 }
