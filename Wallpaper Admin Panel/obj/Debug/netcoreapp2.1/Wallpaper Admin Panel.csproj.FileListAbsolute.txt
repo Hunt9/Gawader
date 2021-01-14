@@ -1,0 +1,142 @@
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.deps.json
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.runtimeconfig.json
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.runtimeconfig.dev.json
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.dll
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.csprojAssemblyReference.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorAssemblyInfo.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorAssemblyInfo.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.AssemblyInfoInputs.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.AssemblyInfo.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.TagHelpers.input.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.TagHelpers.output.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorCoreGenerate.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorTargetAssemblyInfo.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorTargetAssemblyInfo.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.pdb
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.dll
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.pdb
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.pdb
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.dll
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.pdb
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.csproj.CopyComplete
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.deps.json
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.runtimeconfig.json
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.runtimeconfig.dev.json
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.dll
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.pdb
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.dll
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.pdb
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.csprojAssemblyReference.cache
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.csproj.CoreCompileInputs.cache
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorAssemblyInfo.cache
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorAssemblyInfo.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.AssemblyInfoInputs.cache
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.AssemblyInfo.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.TagHelpers.input.cache
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.TagHelpers.output.cache
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorCoreGenerate.cache
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorTargetAssemblyInfo.cache
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorTargetAssemblyInfo.cs
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.pdb
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.dll
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.pdb
+D:\VS\Wallpaper Admin Panel\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.csproj.CopyComplete
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorAssemblyInfo.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorAssemblyInfo.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.AssemblyInfoInputs.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.AssemblyInfo.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.TagHelpers.input.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.TagHelpers.output.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorCoreGenerate.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorTargetAssemblyInfo.cache
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorTargetAssemblyInfo.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.dll
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.pdb
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.deps.json
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.runtimeconfig.json
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.runtimeconfig.dev.json
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.dll
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.pdb
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.dll
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.pdb
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.pdb
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.csproj.CopyComplete
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\PortStaff\Index.g.cshtml.cs
+C:\Users\muhammad.ahkam.BPO\source\repos\Gawader\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\PortStaff\Create.g.cshtml.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.deps.json
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.runtimeconfig.json
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.runtimeconfig.dev.json
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.dll
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.pdb
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.dll
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\bin\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.pdb
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorAssemblyInfo.cache
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorAssemblyInfo.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.AssemblyInfoInputs.cache
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.AssemblyInfo.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.TagHelpers.input.cache
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.TagHelpers.output.cache
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorCoreGenerate.cache
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Account\Signup.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\PortStaff\Create.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\PortStaff\Index.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\Trader\Index.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorTargetAssemblyInfo.cache
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.RazorTargetAssemblyInfo.cs
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.Views.pdb
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.dll
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.pdb
+E:\Gawadar\Gawader-master\Gawader-master\Wallpaper Admin Panel\obj\Debug\netcoreapp2.1\Wallpaper Admin Panel.csproj.CopyComplete
